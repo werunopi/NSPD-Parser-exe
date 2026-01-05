@@ -15,8 +15,7 @@
 
 Сначало выгружаем данные в формате ZIP.
 
-![](https://github.com/werunopi/NSPD-Parser-exe/raw/main/zagr.png)
-
+![](https://raw.githubusercontent.com/werunopi/NSPD-Parser-exe/refs/heads/master/zagr.png)
 
 После ZIP-файл перетаскиваем на exe.
 
