@@ -8,7 +8,7 @@
 
 ## Установка:
 
-Скачать [nspd_api_proxy.exe](https://github.com/werunopi/NSPD-Parser-api/releases/tag/Stable)
+Скачать [NSPD_Parser_DragDrop.exe]([https://github.com/werunopi/NSPD-Parser-api/releases/tag/Stable](https://github.com/werunopi/NSPD-Parser-exe/releases/tag/stable))
 
 
 ## Как использовать:
